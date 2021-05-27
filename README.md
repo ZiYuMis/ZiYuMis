@@ -1,7 +1,7 @@
 ### Hi there 👋
-摸摸鱼，洒洒水，跟着大佬骗吃骗喝。
-励志了两年学习逆向。
-梦想还是要有的，亿一实现了呢
++ 摸摸鱼，洒洒水，跟着大佬骗吃骗喝。
++ 励志了两年学习逆向。
++ 梦想还是要有的，亿一实现了呢
 <!--
 **ZiYuMis/ZiYuMis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
